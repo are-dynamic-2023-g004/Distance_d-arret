@@ -13,3 +13,7 @@ Semaine 10 mars:
 - Définiton de la problématique
 - recherche documentaire
 - recherche de modèles
+
+Semaine 17 mars:
+- recherche documentaire
+- recherche de formules
