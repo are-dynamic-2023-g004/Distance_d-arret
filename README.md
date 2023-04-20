@@ -58,4 +58,5 @@ Semaine 21 Avril:
 Nous avons finalisé la présentation et réparti les roles entre les membres du groupe. nous avons effectué les derniers tests et les ecemples de graphique afin de les montrer.
 
 **Description du modèle:**
+
 <img width="620" alt="Formule1" src="https://user-images.githubusercontent.com/125645155/233501182-cc737c81-e370-4dd5-ac4e-429f476284fd.png">
