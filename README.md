@@ -1,4 +1,4 @@
-**Projet Distance d'arret**
+**Projet Evolution de la vitesse lors du freinage**
 
 Membres du projet:
 - BENZIDANE El Yazid
