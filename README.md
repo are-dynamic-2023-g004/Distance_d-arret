@@ -69,6 +69,14 @@ En utilisant l'équation v = v0 - at, vous pouvez calculer la vitesse finale (v)
 Ce modèle peut être utilisé pour analyser l'évolution de la vitesse en fonction du temps et de la décélération. Il peut également aider à déterminer la distance de freinage, qui est la distance parcourue par le véhicule pendant le processus de freinage.
 Il convient de noter que, bien que ce modèle soit utile pour comprendre les principes de base de l'évolution de la vitesse lors du freinage, il ne prend pas en compte certains facteurs négligeables qui peuvent influencer légèrement la décélération, tels que l'aérodynamique, la densité de l’air, et les caractéristiques spécifiques du système de freinage.
 
+<img width="350" alt="Capture d’écran 2023-04-21 à 00 56 15" src="https://user-images.githubusercontent.com/125645155/233503764-56e475ca-fe4f-4b04-b928-0a8b6dd7db8e.png">
+
+Lorsqu'un véhicule freine, la force qui permet de ralentir le véhicule provient principalement de la friction entre les pneus et la surface de la route. Cette force de friction dépend de plusieurs facteurs, dont le coefficient de frottement (µ) et le poids du véhicule.
+Le coefficient de frottement (µ) est une mesure sans unité qui caractérise la force de friction entre deux surfaces en contact. Dans le cas du freinage d'un véhicule, µ représente la force de friction entre les pneus et la surface de la route. Des valeurs de µ plus élevées indiquent une meilleure adhérence entre les surfaces, ce qui permet une décélération plus importante. Le coefficient de frottement peut varier en fonction du type de pneu, de la surface de la route, et des conditions météorologiques (par exemple, une route mouillée ou enneigée aura un coefficient de frottement plus faible qu'une route sèche et propre).
+La force gravitationnelle (g) est la force qui attire tous les objets vers le centre de la Terre. Sur Terre, l'accélération due à la gravité est d'environ 9,81 m/s². Cette force est responsable du poids du véhicule et influe directement sur la force de friction entre les pneus et la route.
+La formule a = µ * g permet de calculer la décélération maximale possible en fonction du coefficient de frottement et de la force gravitationnelle. Si le coefficient de frottement est élevé, cela signifie que la force de friction entre les pneus et la route est importante, et le véhicule peut décélérer plus rapidement. À l'inverse, si le coefficient de frottement est faible, la décélération maximale sera plus faible, ce qui signifie que le véhicule mettra plus de temps à s'arrêter.
+
+
 **Paramètres pris en compte:**
 
 Nous avons décide de prendre en compte la vitesse initiale de la voiture, l'état de la route et des pneus, la gravité et la masse du véhicule.
