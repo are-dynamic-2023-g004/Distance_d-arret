@@ -60,3 +60,11 @@ Nous avons finalisé la présentation et réparti les roles entre les membres du
 **Description du modèle:**
 
 <img width="620" alt="Formule1" src="https://user-images.githubusercontent.com/125645155/233501182-cc737c81-e370-4dd5-ac4e-429f476284fd.png">
+
+Ce modèle décrit la relation entre la vitesse (v) d'un objet en mouvement, la vitesse initiale (v0) et la décélération (a) subie par cet objet pendant une période de temps (t).
+La vitesse initiale (v0) correspond à la vitesse de l'objet au début du mouvement, avant que la décélération ne commence à agir sur lui. La décélération (a) correspond à la diminution de la vitesse de l'objet au fil du temps. Plus la décélération est grande, plus l'objet ralentit rapidement.
+La décélération (a) est la force opposée qui ralentit le véhicule. Elle est généralement négative, car elle agit dans le sens opposé à la direction du mouvement du véhicule.
+Le temps (t) commence à s'écouler dès que le conducteur applique les freins. Plus le temps s'écoule, plus la vitesse diminue.
+En utilisant l'équation v = v0 - at, vous pouvez calculer la vitesse finale (v) du véhicule à n'importe quel moment (t) après avoir appliqué les freins.
+Ce modèle peut être utilisé pour analyser l'évolution de la vitesse en fonction du temps et de la décélération. Il peut également aider à déterminer la distance de freinage, qui est la distance parcourue par le véhicule pendant le processus de freinage.
+Il convient de noter que, bien que ce modèle soit utile pour comprendre les principes de base de l'évolution de la vitesse lors du freinage, il ne prend pas en compte certains facteurs négligeables qui peuvent influencer légèrement la décélération, tels que l'aérodynamique, la densité de l’air, et les caractéristiques spécifiques du système de freinage.
