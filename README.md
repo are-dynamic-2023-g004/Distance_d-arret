@@ -68,3 +68,32 @@ Le temps (t) commence à s'écouler dès que le conducteur applique les freins. 
 En utilisant l'équation v = v0 - at, vous pouvez calculer la vitesse finale (v) du véhicule à n'importe quel moment (t) après avoir appliqué les freins.
 Ce modèle peut être utilisé pour analyser l'évolution de la vitesse en fonction du temps et de la décélération. Il peut également aider à déterminer la distance de freinage, qui est la distance parcourue par le véhicule pendant le processus de freinage.
 Il convient de noter que, bien que ce modèle soit utile pour comprendre les principes de base de l'évolution de la vitesse lors du freinage, il ne prend pas en compte certains facteurs négligeables qui peuvent influencer légèrement la décélération, tels que l'aérodynamique, la densité de l’air, et les caractéristiques spécifiques du système de freinage.
+
+**Paramètres pris en compte:**
+
+Nous avons décide de prendre en compte la vitesse initiale de la voiture, l'état de la route et des pneus, la gravité et la masse du véhicule.
+
+**Cas témoin:**
+
+![image](https://user-images.githubusercontent.com/125645155/233502190-215285b1-a2bf-43a5-80f2-6a5d9db72f15.png)
+
+Lorsqu'une voiture roule sur une route sèche avec des pneus en bon état et une vitesse initiale de v0 = 27.7 m/s sur la planète Terre, la force de frottement entre les pneus et la route permet de ralentir le véhicule jusqu'à son arrêt complet. Cette force de frottement dépend du coefficient de frottement µ, qui pour cette situation est de 0,7.
+Au début du freinage, la voiture ralentit rapidement, perdant de la vitesse presque linéairement au fil du temps. En d'autres termes, la décélération est presque constante pendant cette phase. Cependant, à mesure que la voiture ralentit, la force de frottement diminue progressivement, ce qui entraîne une diminution de la décélération. Finalement, la vitesse de la voiture diminue jusqu'à s'annuler, moment où la voiture s'arrête complètement.
+
+**Résultats :**
+
+pour v0 = 10 m/s :
+
+![image](https://user-images.githubusercontent.com/125645155/233502398-8a84b24f-51c5-4a10-9c42-936516ef76a8.png)
+
+pour v0 = 50 m/s :
+
+![image](https://user-images.githubusercontent.com/125645155/233502469-6af5590a-9480-44cd-aca8-e461a9504d80.png)
+
+pour µ=0,425 route mouillée :
+
+![image](https://user-images.githubusercontent.com/125645155/233502614-c910bf70-d641-4e31-bc77-2d3e28bbb9ce.png)
+
+pour µ=0,25 route mouillée + pneus deffectueux :
+
+![image](https://user-images.githubusercontent.com/125645155/233502699-b63e8d3f-ca9d-4fcb-8e8c-c677b7ca6949.png)
