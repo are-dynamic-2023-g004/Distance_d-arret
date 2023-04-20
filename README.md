@@ -97,3 +97,14 @@ pour µ=0,425 route mouillée :
 pour µ=0,25 route mouillée + pneus deffectueux :
 
 ![image](https://user-images.githubusercontent.com/125645155/233502699-b63e8d3f-ca9d-4fcb-8e8c-c677b7ca6949.png)
+
+
+**Conclusion :**
+
+Dans ce projet, nous avons étudié l'évolution de la vitesse d'un véhicule lors du freinage en tenant compte de la masse du véhicule, du coefficient de frottement et de la gravité. Nous avons utilisé des modèles mathématiques pour simuler et visualiser l'impact de ces paramètres sur la performance de freinage. Les résultats obtenus montrent comment la vitesse du véhicule décroît progressivement jusqu'à ce qu'il s'arrête complètement.
+
+Les enjeux liés à la compréhension de l'évolution de la vitesse lors du freinage sont nombreux. Tout d'abord, une meilleure connaissance de ces phénomènes permet d'améliorer la sécurité routière en aidant les conducteurs à adapter leur comportement en fonction des conditions de la route, telles que les routes mouillées ou sèches, et en tenant compte de la masse de leur véhicule. De plus, les constructeurs automobiles peuvent utiliser ces informations pour concevoir des systèmes de freinage plus performants et plus adaptés aux différents types de véhicules et de situations de conduite.
+
+En outre, cette étude met en évidence l'importance de la prise en compte de l'état de la route et de la force de freinage dans le modèle, car ces éléments peuvent également influencer l'évolution de la vitesse lors du freinage.
+
+En conclusion, l'analyse de l'évolution de la vitesse lors du freinage est cruciale pour améliorer la sécurité routière et optimiser les performances de freinage des véhicules. Les enjeux associés à ce sujet concernent à la fois les conducteurs, les constructeurs automobiles et les autorités de régulation, qui doivent travailler ensemble pour réduire les risques d'accidents et garantir une conduite sûre et responsable sur les routes.
